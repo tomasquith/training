@@ -18,7 +18,7 @@
 #     capgemini-c4ca4238a0b923820dcc509a6f75849b
 #
 
-variable "aws_access_key" {}
+variable "aws_access_key" {
 variable "aws_secret_key" {}
 variable "aws_region" { default = "eu-west-1" }
 
